@@ -49,3 +49,16 @@ h2, h3{
     flex: 1;
     min-width: 300px;
 }
+
+.social-box{
+    display: flex;
+    gap: 8px
+    ;
+}
+
+.social-span{
+    display: flex;
+    gap: 8px
+    ;
+
+}
